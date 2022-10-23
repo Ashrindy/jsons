@@ -1,0 +1,29 @@
+{
+
+    "name": "Minecraft: Sharper Tweaks",
+
+	"creators": [ "Ashrindy" ],
+
+    "description": "Minecraft but with some small tweaks.",
+
+	"icon": "https://cdn.discordapp.com/attachments/842434060714639371/1033663767789178900/sharper.gif",
+
+    "versions": [
+
+        {
+
+            "id": "1.0.0",
+
+            "size": 96542821,
+
+            "forge": "1.12.2-14.23.5.2847",
+
+			"url": "https://www.dropbox.com/s/n7n8nk24hc05dv5/minecraft-sharper-tweaks.zip?dl=1"
+
+        }
+
+    ],
+
+	"vma": "-Xms3072M -Xmx3072M"
+
+}

@@ -1,5 +1,7 @@
 {
-  "patchnotes": {
-    "name": "imold"
-  }
+  "patchnotes": [
+    {
+      "name": "imold"
+    }
+  ]
 }

@@ -1,0 +1,26 @@
+{
+  "name": "Tekkit Classic",
+  "creators": ["Sct"],
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/842434060714639371/1110269737071550564/2023-05-22_20.12.02.png",
+    "https://cdn.discordapp.com/attachments/842434060714639371/1110269748631048314/2023-05-22_20.15.09.png"
+  ],
+  "description": "The official Tekkit Classic modpack",
+  "icon": "https://cdn.discordapp.com/attachments/842434060714639371/1110267291951706133/552560.png",
+  "versions": [
+    {
+      "id": "1.0.0",
+      "forge": "1.2.5-3.4.9.171",
+      "changelog": "Release",
+      "vanilla": "1.2.5",
+      "extension": {
+        "size": 230522658,
+        "url": "https://www.dropbox.com/s/w9f5g5h7rqihg1e/tekkit.zip?dl=1"
+      }
+    }
+  ],
+  "_MANIFEST_VERSION_": "1.0",
+  "default": {
+    "jvmArguments": "-Xms3072M -Xmx3072M"
+  }
+}

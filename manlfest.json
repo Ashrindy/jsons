@@ -11,7 +11,7 @@
       "id": "1.0.1",
       "vanilla": "1.4.7",
       "forge": "1.4.7-6.6.2.534",
-      "changelog": "Fixed crashes, courtesy of Adam Charvát"
+      "changelog": "Fixed crashes, courtesy of Adam Charvát",
       "extension": {
         "size": 18447907,
         "url": "https://www.dropbox.com/s/9qn6gyyah74sz3p/tekkitlite2.zip?dl=1"

@@ -1,0 +1,24 @@
+{
+  "name": "Tekkit Lite",
+  "creators": ["Sct"],
+  "gallery": [
+    "https://cdn.technicpack.net/platform2/pack-backgrounds/552675.jpg?1631992514"
+  ],
+  "icon": "https://cdn.discordapp.com/attachments/842434060714639371/1110568400570290226/cutecreeper.gif",
+  "description": "The original Tekkit Lite modpack",
+  "versions": [
+    {
+      "id": "1.0.0",
+      "vanilla": "1.4.7",
+      "forge": "1.4.7-6.6.2.534",
+      "extension": {
+        "size": 111930143,
+        "url": "https://www.dropbox.com/s/2x1zf9zn0wry7pi/tekkitlite.zip?dl=1"
+      }
+    }
+  ],
+  "_MANIFEST_VERSION_": "1.0",
+  "default": {
+    "jvmArguments": "-Xms3072M -Xmx3072M"
+  }
+}

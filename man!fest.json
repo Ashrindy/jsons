@@ -1,0 +1,26 @@
+{
+  "name": "Hexxit",
+  "creators": ["Sct"],
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/842434060714639371/1112050116287795420/2023-05-27_18.08.32.png",
+    "https://cdn.discordapp.com/attachments/842434060714639371/1112050144901337188/2023-05-27_18.09.18_2.png",
+    "https://cdn.discordapp.com/attachments/842434060714639371/1112050206356283392/2023-05-27_18.09.36.png"
+  ],
+  "icon": "https://cdn.discordapp.com/attachments/842434060714639371/1112046358229176441/hexxit.gif",
+  "description": "Gear up and set forth on a campaign worthy of legend, for Hexxit has been unearthed! Dark dungeons, towering spires, weathered ruins and musty tomes lay before you. Lay claim to riches or create your own artifacts, tame beasts and carve out your own story in endless wonder. Alone or with friends, adventure awaits in Hexxit.",
+  "versions": [
+    {
+      "id": "1.0.0",
+      "vanilla": "1.5.2",
+      "forge": "1.5.2-7.8.1.737",
+      "extension": {
+        "size": 37147627,
+        "url": "https://www.dropbox.com/s/ukqpra8btcqfp88/hexxit.zip?dl=1"
+      }
+    }
+  ],
+  "_MANIFEST_VERSION_": "1.0",
+  "default": {
+    "jvmArguments": "-Xms3072M -Xmx3072M"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Attack of the B-Team",
+  "creators": ["Sct"],
+  "gallery": [
+    "https://cdn.discordapp.com/attachments/842434060714639371/1112088376313643008/2023-05-27_20.41.10.png",
+    "https://cdn.discordapp.com/attachments/842434060714639371/1112088376754053192/2023-05-27_20.41.34.png",
+    "https://cdn.discordapp.com/attachments/842434060714639371/1112088377295110215/2023-05-27_20.41.46.png"
+  ],
+  "icon": "https://cdn.discordapp.com/attachments/842434060714639371/1112085113967227010/attackofbteam.gif",
+  "description": "This modpack was designed with one thing in mind, crazy mad science! With the help of the B-Team we hand picked the wackiest mods we could find and shoved them all in a modpack for you guys. The result is Attack of the B-Team!",
+  "versions": [
+    {
+      "id": "1.0.0",
+      "vanilla": "1.6.4",
+      "forge": "1.6.4-9.11.1.965",
+      "extension": {
+        "size": 110791103,
+        "url": "https://www.dropbox.com/s/e7ulgme882dxxdd/attack-of-the-bteam.zip?dl=1"
+      }
+    }
+  ],
+  "_MANIFEST_VERSION_": "1.0",
+  "default": {
+    "jvmArguments": "-Xms3072M -Xmx3072M"
+  }
+}
